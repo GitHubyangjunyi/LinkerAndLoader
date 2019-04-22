@@ -1,0 +1,4 @@
+int b;
+
+void ext()
+{}
